@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0-alpha.15",
+  "url": "https://github.com/qk-snapin-org/ai-eval/releases/tag/v0.1.0-alpha.15",
+  "download": "https://github.com/tejaram-qk/litmus-releases/releases/download/v0.1.0-alpha.15/Litmus-0.1.0-alpha.15-arm64.dmg",
+  "notes": "Counters that tick, Evaluator steps read-only, the user guide."
+}
