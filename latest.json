@@ -1,6 +1,13 @@
 {
-  "version": "0.1.0-alpha.15",
-  "url": "https://github.com/qk-snapin-org/ai-eval/releases/tag/v0.1.0-alpha.15",
-  "download": "https://github.com/tejaram-qk/litmus-releases/releases/download/v0.1.0-alpha.15/Litmus-0.1.0-alpha.15-arm64.dmg",
-  "notes": "Counters that tick, Evaluator steps read-only, the user guide."
+  "version": "0.1.0-beta.1",
+  "url": "https://github.com/tejaram-qk/litmus-releases/releases/tag/v0.1.0-beta.1",
+  "download": "https://github.com/tejaram-qk/litmus-releases/releases/download/v0.1.0-beta.1/Litmus-0.1.0-beta.1-arm64.dmg",
+  "downloads": {
+    "darwin-arm64": "https://github.com/tejaram-qk/litmus-releases/releases/download/v0.1.0-beta.1/Litmus-0.1.0-beta.1-arm64.dmg"
+  },
+  "sha256": {
+    "darwin-arm64": "e1380555f62fea3851b2c9155f500c0eed0910360126fb52fecba823ffbc2752"
+  },
+  "notes": "Beta 1: the complete engine with the October review fixes. macOS on Apple silicon.",
+  "published": "2026-10-08"
 }
